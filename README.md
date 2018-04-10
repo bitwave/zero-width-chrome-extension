@@ -1,4 +1,9 @@
-# Replace zero-width characters with emojis
+# Replace zero-width characters with emojis - userscript edition
+
+This is the userscript version of https://github.com/chpmrc/zero-width-chrome-extension
+It should work in tampermonkey on chrome and firefox. Greasemonkey should work as well, but is not tested.
+
+# Old readme
 
 I built this purely for fun, inspired by [this article](https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66).
 
