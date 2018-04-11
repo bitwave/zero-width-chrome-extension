@@ -1,8 +1,11 @@
 // ==UserScript==
-// @name         Replace zero-width characters with emojis
+// @name         replace-zero-width-characters-emojis
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
+// @version      0.2
+// @description  Replace zero-width characters with emojis
+// @homepage     https://github.com/bitwave/zero-width-chrome-extension
+// @updateURL 	 https://github.com/bitwave/zero-width-chrome-extension/raw/master/userscript.user.js
+// @downloadURL  https://github.com/bitwave/zero-width-chrome-extension/raw/master/userscript.user.js
 // @author       bitwave
 // @match        https://*/*
 // @match        http://*/*
